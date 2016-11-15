@@ -1,6 +1,6 @@
 # BAAssignment-8_Amazon
 
-Link to Visualization :- http://127.0.0.1:4321
+Link to Visualization :- https://cdn.rawgit.com/saknevatia/BAAssignment-8_Amazon/master/index.html
 
 This dataset contains product reviews and metadata from Amazon. I took the reviews about the Beauty products on Amazon.
 The visualization shows how diffrent beauty topics are associated with each other. It shows how the topics on the left are linked to the terms on the right.
