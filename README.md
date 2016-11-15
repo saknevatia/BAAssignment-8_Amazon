@@ -3,7 +3,7 @@
 Link to Visualization :- http://127.0.0.1:4321
 
 This dataset contains product reviews and metadata from Amazon. I took the reviews about the Beauty products on Amazon.
-The visualization shows how diffrent beauty topics are associated with each other.
+The visualization shows how diffrent beauty topics are associated with each other. It shows how the topics on the left are linked to the terms on the right.
 
 Topic 1 shows the Reviews on diffrent hair products. The relevance matrix λ = 1. The following link shows the visualization is:-
 http://127.0.0.1:4321/#topic=1&lambda=1&term=
